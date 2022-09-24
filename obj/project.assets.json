@@ -2030,11 +2030,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Azure\\Cloud Dev\\Code2\\PizzaService\\PizzaService.csproj",
+      "projectUniqueName": "D:\\Work\\Azure\\CINEC\\App\\PizzaService\\PizzaService.csproj",
       "projectName": "PizzaService",
-      "projectPath": "D:\\Work\\Azure\\Cloud Dev\\Code2\\PizzaService\\PizzaService.csproj",
+      "projectPath": "D:\\Work\\Azure\\CINEC\\App\\PizzaService\\PizzaService.csproj",
       "packagesPath": "C:\\Users\\Dinusha\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Azure\\Cloud Dev\\Code2\\PizzaService\\obj\\",
+      "outputPath": "D:\\Work\\Azure\\CINEC\\App\\PizzaService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dinusha\\AppData\\Roaming\\NuGet\\NuGet.Config",
